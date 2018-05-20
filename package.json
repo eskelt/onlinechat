@@ -1,22 +1,21 @@
 {
   "name": "onlinechat",
   "version": "1.0.0",
-  "description": "CHat online con Node js",
+  "description": "CHat online en NodeJs para Lenguajes de Marcas",
   "main": "app.js",
+  "dependencies": {},
+  "devDependencies": {},
   "scripts": {
-    "start": "node app.js"
+    "test": "node app.js"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/eskelt/onlinechat.git"
+    "url": "git+https://github.com/eskelt/onlinechat.git"
   },
   "author": "eskelt",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/eskelt/onlinechat/issues"
   },
-  "homepage": "https://github.com/eskelt/onlinechat#readme",
-  "dependencies": {
-    "express": "^4.16.3"
-  }
+  "homepage": "https://github.com/eskelt/onlinechat#readme"
 }
