@@ -1,0 +1,19 @@
+{
+  "name": "onlinechat",
+  "version": "1.0.0",
+  "description": "CHat online con Node js",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/eskelt/onlinechat.git"
+  },
+  "author": "eskelt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eskelt/onlinechat/issues"
+  },
+  "homepage": "https://github.com/eskelt/onlinechat#readme"
+}
